@@ -1,0 +1,17 @@
+E:\project market\marketplace\marketplace\x64\Debug\marketplace.vcxprojAssemblyReference.cache
+E:\project market\marketplace\marketplace\x64\Debug\marketplace.MyForm.resources
+E:\project market\marketplace\marketplace\x64\Debug\marketplace.vcxproj.GenerateResource.cache
+E:\project market\joseph\marketplace\marketplace\x64\Debug\marketplace.vcxprojAssemblyReference.cache
+E:\project market\joseph\marketplace\marketplace\x64\Debug\marketplace.MyForm.resources
+E:\project market\joseph\marketplace\marketplace\x64\Debug\marketplace.vcxproj.GenerateResource.cache
+E:\project market\joseph\Online Marketplace Management System\marketplace\x64\Debug\marketplace.vcxprojAssemblyReference.cache
+E:\project market\joseph\Online Marketplace Management System\marketplace\x64\Debug\marketplace.MyForm.resources
+E:\project market\joseph\Online Marketplace Management System\marketplace\x64\Debug\marketplace.vcxproj.GenerateResource.cache
+D:\4th semester\DS\final project\Online Marketplace Management System\Online Marketplace Management System\marketplace\x64\Debug\marketplace.MyForm.resources
+D:\4th semester\DS\final project\Online Marketplace Management System\Online Marketplace Management System\marketplace\x64\Debug\marketplace.vcxproj.GenerateResource.cache
+E:\Marketplace Management Proj\Final with GUI\marketplace\x64\Debug\marketplace.vcxproj.AssemblyReference.cache
+E:\Marketplace Management Proj\Final with GUI\marketplace\x64\Debug\marketplace.MyForm.resources
+E:\Marketplace Management Proj\Final with GUI\marketplace\x64\Debug\marketplace.vcxproj.GenerateResource.cache
+D:\4th semester\DS\final project\Online Marketplace FINAL 2\Online Marketplace Management\marketplace\x64\Debug\marketplace.vcxprojAssemblyReference.cache
+D:\4th semester\DS\final project\Online Marketplace FINAL 2\Online Marketplace Management\marketplace\x64\Debug\marketplace.MyForm.resources
+D:\4th semester\DS\final project\Online Marketplace FINAL 2\Online Marketplace Management\marketplace\x64\Debug\marketplace.vcxproj.GenerateResource.cache

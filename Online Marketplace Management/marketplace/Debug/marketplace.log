@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\gorge\Downloads\marketplace\marketplace\MyForm.cpp(260,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gorge\Downloads\marketplace\marketplace\MyForm.cpp(271,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gorge\Downloads\marketplace\marketplace\MyForm.cpp(289,20): warning C4018: '<': signed/unsigned mismatch
+  Cart.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  marketplace.vcxproj -> C:\Users\gorge\Downloads\marketplace\Debug\marketplace.exe

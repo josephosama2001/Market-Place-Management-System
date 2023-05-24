@@ -1,0 +1,3 @@
+C:\Users\gorge\Downloads\marketplace\marketplace\Debug\marketplace.MyForm.resources
+C:\Users\gorge\Downloads\marketplace\marketplace\Debug\marketplace.vcxproj.GenerateResource.cache
+C:\Users\gorge\Downloads\marketplace\marketplace\Debug\marketplace.vcxprojAssemblyReference.cache
